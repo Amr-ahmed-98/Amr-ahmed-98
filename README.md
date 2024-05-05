@@ -9,9 +9,8 @@
 
 - ⚡ Fun fact **when i write code if i face problems my brain creates some jokes**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
