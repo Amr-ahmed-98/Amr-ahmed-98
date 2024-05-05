@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amr Ahmed Ibrahim</h1>
 <h3 align="center">A passionate Front-end developer from Egypt</h3>
 
+- 🔭 I’m currently working on **several practical React projects**
+
+- 🌱 I’m currently learning **React.Js**
+
+- 📫 How to reach me **amrahmedwork@hotmail.com**
+
+- ⚡ Fun fact **when i write code if i face problems my brain creates some jokes**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
