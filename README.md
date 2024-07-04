@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **several practical React projects**
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **amrahmedwork@hotmail.com**
 
