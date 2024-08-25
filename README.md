@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Ahmed Ibrahim</h1>
 <h3 align="center">A passionate Front-end developer from Egypt</h3>
 
-- 🔭 I’m currently working on **several practical TypeScript projects**
+- 🔭 I’m currently working on **E-commerce using typescript with MaterialUI**
 
 - 🌱 I’m currently learning **TypeScript**
 
