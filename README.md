@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Ahmed Ibrahim</h1>
 <h3 align="center">A passionate Front-end developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Simple project to learn testing**
+- 🔭 I’m currently working on **Education Website With a team**
 
 - 🌱 I’m currently learning **Testing**
 
