@@ -40,19 +40,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600&v=2"
        alt="amr-ahmed-98 stats" />
 
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=tokyonight&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"
        alt="amr-ahmed-98 top languages" />
-
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amr-ahmed-98&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amr-ahmed-98&theme=tokyonight&hide_border=true&v=2"
     alt="amr-ahmed-98 streak" />
 </div>
