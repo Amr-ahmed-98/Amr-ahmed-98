@@ -50,31 +50,9 @@ const amr = {
 <br/>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&hide_border=true)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=tokyonight&hide_border=true)"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-ahmed-98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-ahmed-98&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=amr-ahmed-98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=amr-ahmed-98&theme=darkhub&no-frame=true&row=1&column=6)" alt="GitHub Trophies"/>
-</p>
 
 <br/>
 
