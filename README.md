@@ -41,11 +41,11 @@
 
 <div align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600&v=2"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600&v=2"
        alt="amr-ahmed-98 stats" />
 
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"
        alt="amr-ahmed-98 top languages" />
 </div>
 
