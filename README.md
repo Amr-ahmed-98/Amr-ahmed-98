@@ -51,14 +51,16 @@ const amr = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
+<div align="center">
+  <img height="170"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600&v=2"
+       alt="amr-ahmed-98 stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-ahmed-98&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</p>
+  <img height="170"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"
+       alt="amr-ahmed-98 top languages" />
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-ahmed-98&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
