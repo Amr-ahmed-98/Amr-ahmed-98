@@ -41,13 +41,14 @@
 
 <div align="center">
   <img height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amr-ahmed-98&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;cache_seconds=21600&amp;v=99"
     alt="stats" />
 
   <img height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amr-ahmed-98&theme=tokyonight"
-    alt="top language" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=21600&amp;v=99"
+    alt="top languages" />
 </div>
+
 
 
 
