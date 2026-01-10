@@ -21,6 +21,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amr-ahmed-98&show_icons=true&locale=en&layout=compact" alt="amr-ahmed-98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&locale=en" alt="amr-ahmed-98" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&locale=en" alt="amr-ahmed-98" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amr-ahmed-98&show_icons=true&locale=en&layout=compact" alt="amr-ahmed-98" height="150" />
+</p>
