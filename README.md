@@ -21,6 +21,7 @@
   </a>
 </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
