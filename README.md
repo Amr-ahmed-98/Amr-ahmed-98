@@ -52,32 +52,24 @@ const amr = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF&exclude_repo=github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amr-ahmed-98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed-98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-ahmed-98&theme=algolia&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-ahmed-98&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-ahmed-98&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF" alt="Contribution Graph"/>
-</p>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amr-ahmed-98&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-ahmed-98&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
 <br/>
 
-## 📈 Contribution Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amr-ahmed-98&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amr-ahmed-98&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 <br/>
