@@ -59,7 +59,7 @@ const amr = {
 ## 💼 Let's Connect
 
 <p align="center">
-  <a href="mailto:amrahmedwork@hotmail.com">
+  <a href="mailto:amrahmedwork@outlook.com">
     <img src="https://img.shields.io/badge/Email-Let's_Talk-0072FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/amr-ahmed-98">
